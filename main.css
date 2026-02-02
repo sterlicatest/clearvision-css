@@ -16,5 +16,8 @@
 .container__9293f {
     justify-content: space-between !important;
 }
-
+.winButtonClose__421ed,
+.winButtonMinMax__421ed {
+    margin-left: 6px !important;
+}
 
